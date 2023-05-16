@@ -2,10 +2,11 @@
 This extension is used to redirect you to the leetcode problem as you wish
 
 Following are the steps to follow:
-![Screenshot (29)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/2b6183c0-99a5-41eb-8f4f-e99457415cc5)
-![Screenshot (30)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/17554530-e7fe-4ca7-95be-3cf0d3![Screenshot (25)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/04a67616-d366-4f3c-bc1e-bad5c45c7f76)
-98719c)![Screenshot (24)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/374127af-353f-4652-8bb8-08dce3aae724)
-
-![Screenshot (31)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/d7897739-6ea4-4cba-8e3c-7bbf0fc1965a)
-![Screenshot (26)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/8f5e8a49-df54-4b72-a702-d450bd70dc0e)
-![Screenshot (27)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/379b0959-8a7f-4e42-95cd-a7fde06224e1)
+![Screenshot (32)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/5a14bc38-655f-4b34-8482-cd949246d828)
+![Screenshot (33)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/f9e94345-e31a-4e97-8b2c-e749af3a0e88)
+![Screenshot (26)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/f933d736-53b2-4af2-a44f-ca5b666f5e9d)
+![Screenshot (27)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/49367db3-ccb2-4787-b296-47b3228a583f)
+![Screenshot (28)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/244837c4-60cf-4f68-bedd-9ca556594800)
+![Screenshot (29)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/0e846ef3-b91e-49d8-9f9b-d72e6ef3934a)
+![Screenshot (30)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/9709b042-e8e6-4cab-83fe-1646cf33d568)
+![Screenshot (31)](https://github.com/saashish7070/LeetCode_Link_Redirect_Extension/assets/69105660/1378f507-13a8-47dc-8707-9e811fe1b269)
