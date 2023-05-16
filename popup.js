@@ -10,7 +10,15 @@ fetch(chrome.runtime.getURL("leetcode_links.txt"))
     links.forEach((link) => {
       const linkDiv = document.createElement("div");
       linkDiv.className = "link";
-      linkDiv.innerText = link;
+      const excludedString = "https://leetcode.com/problems/";
+      const excludedCharacter = "/"
+      let linkname = link
+// Remove the excluded string from the link
+      linkname = linkname.replace(excludedString, '');
+      linkname = linkname.replace(excludedCharacter, '');
+
+// Set the modified link to the linkDiv's innerText
+        linkDiv.innerText = linkname;
       if (visitedLinks.includes(link)) {
         linkDiv.classList.add("visited");
       }
@@ -36,13 +44,4 @@ document.getElementById("reset").addEventListener("click", () => {
     linkDiv.classList.remove("visited");
   });
 });
-// Reset the visited links
-// document.getElementById("reset").addEventListener("click", () => {
-//   console.log("Reset button clicked");
-//   localStorage.removeItem("visitedLinks");
-//   console.log("Visited links cleared from localStorage");
-//   document.querySelectorAll(".link.visited").forEach((linkDiv) => {
-//     linkDiv.classList.remove("visited");
-//     console.log("Visited link cleared from UI");
-//   });
-// });
+
